@@ -6,4 +6,4 @@ The instructions specify that it should include an index page with links to a fe
 
 It will not have styles as this project comes before the CSS portion of the curriculum.
 
-Images all sources from Wikimedia Commons.
+Images sourced from Wikimedia Commons except where otherwise noted.
